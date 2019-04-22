@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//tarda en compilar
 using namespace std;
 int verif(long m)
 {
