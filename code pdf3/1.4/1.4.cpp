@@ -12,5 +12,5 @@ int main()
     }
     cout<<s.substr (6,6)<<endl ; // Prints " world !"
     cout<<s.find ("world"); // ( prints "6")
-    cout<<s.find ('d',5); // ( prints "9")
+    cout<<s.find ('l',5); // ( prints "9")
 }
